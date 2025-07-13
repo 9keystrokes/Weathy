@@ -4,7 +4,8 @@
 Weathy - A simple weather application built with Python (Django).
 You're welcome to customize it according to your needs.
 
-Live Link :- [Weathy](https://weathy-1.onrender.com/)
+## 🌐 Live Demo
+Visit our platform at: [Weathy](https://weathy-1.onrender.com/)
 
 ## Steps to Run:
 
