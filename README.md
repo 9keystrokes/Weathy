@@ -1,5 +1,5 @@
 # Weathy
-[![Live Demo](https://img.shields.io/badge/Live Demo-blue)](https://weathy-1.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://weathy-1.onrender.com/)
 
 Weathy - A simple weather application built with Python (Django).
 You're welcome to customize it according to your needs.
